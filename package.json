@@ -72,7 +72,7 @@
     "@financial-times/sass-mq": "^5.2.3",
     "@jakechampion/c-at-e-file-server-cli": "^0.0.2-main",
     "autoprefixer": "^10.4.14",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "browserslist": "^4.21.9",
     "eclint": "^2.8.1",
     "esbuild": "^0.18.15",
