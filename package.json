@@ -38,7 +38,7 @@
     "@financial-times/polyfill-useragent-normaliser": "^1.10.2",
     "@financial-times/useragent_parser": "^1.6.3",
     "@jakechampion/c-at-e-file-server": "^0.0.2-main",
-    "hono": "^3.3.2",
+    "hono": "^3.11.7",
     "mnemonist": "^0.39.5",
     "toposort": "^2.0.2"
   },
