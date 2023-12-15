@@ -1,4 +1,4 @@
-lockfileVersion: '6.1'
+lockfileVersion: '6.0'
 
 settings:
   autoInstallPeers: true
@@ -21,8 +21,8 @@ dependencies:
     specifier: ^0.0.2-main
     version: 0.0.2-main
   hono:
-    specifier: ^3.3.2
-    version: 3.3.2
+    specifier: ^3.11.7
+    version: 3.11.7
   mnemonist:
     specifier: ^0.39.5
     version: 0.39.5
@@ -3953,8 +3953,8 @@ packages:
     deprecated: Version no longer supported. Upgrade to @latest
     dev: true
 
-  /hono@3.3.2:
-    resolution: {integrity: sha512-7rsgLAUXTdxo2qU/+uso5oZiiNruB9++1TMxcy95c+pTK822L0ORuug5aPVr6JkYgLkkL3w4i1Y9zrcLZJBp8A==}
+  /hono@3.11.7:
+    resolution: {integrity: sha512-TcfAq7IdipF+9coxnuzYlSSBXbm9mTyWjjagLCv/2ampboNcKJdi+XCK5G48mHQtpI5+9Rj3J4FfcGgw9vzIww==}
     engines: {node: '>=16.0.0'}
     dev: false
 
